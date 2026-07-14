@@ -1,36 +1,52 @@
-# ¡Hola! 👋 Soy David Hidalgo
+<h1 align="center">¡Hola! 👋 Soy David Hidalgo</h1>
 
-Soy egresado de **Desarrollo de Software** del **Instituto Técnico Superior Comunitario (ITSC)**, República Dominicana.
+<p align="center">
+Egresado de <strong>Desarrollo de Software</strong> del Instituto Técnico Superior Comunitario (ITSC), República Dominicana.
+</p>
 
-Me interesa el desarrollo de software, especialmente el desarrollo web con Python y Django. Actualmente sigo aprendiendo nuevas tecnologías y desarrollando proyectos para fortalecer mis habilidades.
-
-## 🚀 Tecnologías que utilizo
-
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- SQL Server
-- SQLite
-- Git y GitHub
-
-## 📚 Actualmente aprendiendo
-
-- Arquitectura de aplicaciones con Django
-- Linux (Arch Linux y distribuciones basadas en Arch)
-- Docker
-- Buenas prácticas de desarrollo de software
-
-## 📂 Algunos proyectos
-
-Próximamente iré publicando proyectos personales y académicos para mostrar mi progreso como desarrollador.
-
-## 📫 Contacto
-
-- GitHub: https://github.com/davidHR-12
+<p align="center">
+Apasionado por el desarrollo backend con <strong>Python y Django</strong>, Linux y el aprendizaje continuo. Actualmente desarrollo proyectos para seguir fortaleciendo mis habilidades como desarrollador.
+</p>
 
 ---
 
-> Siempre estoy aprendiendo algo nuevo y buscando mejorar como desarrollador.
+## 💻 Tecnologías
 
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- ⚛️ React
+- 🟢 Node.js (ecosistema para React y herramientas de desarrollo)
+- 🐳 Docker
+- 🐧 Linux (Arch Linux y distribuciones basadas en Arch)
+- 🏗️ Buenas prácticas y arquitectura de aplicaciones con Django
+
+---
+
+## 🚀 Proyectos
+
+- 🖨️ Sistema de Gestión para un Taller de Impresión 3D (Django)
+- 📦 Próximamente más proyectos personales y académicos.
+
+---
+
+## 📫 Contacto
+
+![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg) 
+
+- davidhidalgoramirez@gmail.com
+
+---
+
+> *"Siempre aprendiendo, siempre construyendo."*
