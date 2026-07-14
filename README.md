@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy David Hidalgo
 
-<!--
-**davidHR-12/davidHR-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy egresado de **Desarrollo de Software** del **Instituto Técnico Superior Comunitario (ITSC)**, República Dominicana.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software, especialmente el desarrollo web con Python y Django. Actualmente sigo aprendiendo nuevas tecnologías y desarrollando proyectos para fortalecer mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que utilizo
+
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQL Server
+- SQLite
+- Git y GitHub
+
+## 📚 Actualmente aprendiendo
+
+- Arquitectura de aplicaciones con Django
+- Linux (Arch Linux y distribuciones basadas en Arch)
+- Docker
+- Buenas prácticas de desarrollo de software
+
+## 📂 Algunos proyectos
+
+Próximamente iré publicando proyectos personales y académicos para mostrar mi progreso como desarrollador.
+
+## 📫 Contacto
+
+- GitHub: https://github.com/davidHR-12
+
+---
+
+> Siempre estoy aprendiendo algo nuevo y buscando mejorar como desarrollador.
+
